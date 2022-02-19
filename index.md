@@ -8,10 +8,18 @@ In our project on QMainWindow, we wrote the code for the chart and the action se
 
 ## <span style="color:red">Summary:</span>
 
-     * [SpreadSheet (Functionality)](#SpreadSheet)
-     * [Text Editor](#Text Editor)
+ * [SpreadSheet (Functionality)](#SpreadSheet)
+ 
+
+ * [Text Editor](#TextEditor)
      
-#### <span style="color:blue">1-SpreadSheet</span>  {#SpreadSheet}
+     adadadaa
+     
+
+https://user-images.githubusercontent.com/93819249/150693794-857f07e4-e390-46a9-a12a-8ab0adba1a0a.mp4
+
+
+#### <span style="color:blue">1-SpreadSheet</span> {#SpreadSheet}
 
  A spreadsheet is a computer application for organization, analysis, and storage of data in tabular form Or we can say the spreadSheet is worksheet edit a file made of rows and columns that help sort, organize, and arrange data efficiently, and calculate numerical data. What makes a spreadsheet software program unique is its ability to calculate values using mathematical formulas and the data in cells. An example of how a spreadsheet may be utilized is creating an overview of your bank's balance.
 
@@ -547,7 +555,7 @@ int main(int argc, char *argv[])
 
 
 
-## <span style="color:blue">2-Text Editor</span>{#Text Editor}
+## <span style="color:blue">2-Text Editor</span> {#TextEditor}
 
 * * *
 ## <span style="color:blue">main.cpp</span>
